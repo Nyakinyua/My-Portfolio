@@ -1,7 +1,7 @@
 .text{
     text-align: left;
     width: 250px;
-    float: left;
+    float: right;
     margin: block;
     padding: 3px;
     font-size: 18px;
@@ -9,8 +9,21 @@
 }
 body{
     font-family:sans-serif;
-
+}
+.projects{
+    text-align: left;
+    float: left;
+    width: 250px;
+    padding: 18px;
+    
 
 }
 
+.all{
+    text-align: right;
+    align-content: center
 }
+
+
+
+
