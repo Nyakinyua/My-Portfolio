@@ -27,6 +27,8 @@ img{
 .text{
     float:left;
     padding-block-end: 16px;
-    margin
-
+    overflow: auto;
+    clear: left
 }
+
+
