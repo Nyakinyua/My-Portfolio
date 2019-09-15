@@ -18,8 +18,10 @@ h1{
 
 }
 .projects{
-    float: left
-
-}
-
+    float: right;
+    text-align: left
+    margin: block;
+    padding: 3px
+    font-size: 18px
+    
 }
