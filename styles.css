@@ -1,5 +1,4 @@
 body{
-    text-align: left;
     font-style: oblique;
     font-family: Arial;
     line-height: 30px
@@ -16,15 +15,14 @@ h1{
     padding: 30px;
 }
 .text{
-    text-align: justify;
-    float: right;
-    display: inline
+    text-align: left;
+    float: left;
+    display: inline;
 }
 .projects{
-    float: left;
-    text-align: left
-    
+
 }
+
 img{
     float: right;
-    ]}
+}
