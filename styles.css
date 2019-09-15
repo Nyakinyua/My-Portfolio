@@ -7,7 +7,7 @@ body{
     list-style-type: none;
 }
 h1{
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     block-size: 12px;
     word-spacing: 3px;
@@ -16,19 +16,15 @@ h1{
 .projects{
 text-align:left;
 float:left;
-width:250px;
-padding:18px;
+width:350px;
+padding:28px;
 
 }
 
 img{
     float: right;
 }
-.text{
-    float:left;
-    padding-block-end: 16px;
-    overflow: auto;
-    clear: left
+h4{
+    text-align: left
 }
-
 
