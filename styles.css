@@ -1,27 +1,30 @@
-.text{
+body{
     text-align: left;
-    width: 250px;
-    float: left;
-    margin: block;
-    padding: 3px;
-    font-size: 18px;
-
+    font-style: oblique;
+    font-family: Arial;
+    line-height: 30px
 }
-li{
-    text-decoration: underline;
+.navigation{
+    list-style-type: none;
 }
 h1{
-    padding: 25;
-    font-size: 40px;
+    font-size: 34px;
     text-align: center;
-    text-decoration-style: wavy;
-
+    text-decoration-color: black;
+    block-size: 12px;
+    word-spacing: 3px;
+    padding: 30px;
+}
+.text{
+    text-align: justify;
+    float: right;
+    display: inline
 }
 .projects{
-    float: right;
+    float: left;
     text-align: left
-    margin: block;
-    padding: 3px
-    font-size: 18px
     
 }
+img{
+    float: right;
+    ]}
