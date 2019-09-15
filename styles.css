@@ -1,31 +1,25 @@
 .text{
     text-align: left;
     width: 250px;
-    float: right;
+    float: left;
     margin: block;
     padding: 3px;
     font-size: 18px;
-    
-}
-body{
-    font-family:sans-serif;
-}
-.projects{
-    text-align: left;
-    float: left;
-    width: 250px;
-    padding: 18px;
-    
 
 }
-
-.all{
-    text-align: right;
-    align-content: center
-}
-
-
 li{
     text-decoration: underline;
-    
+}
+h1{
+    padding: 25;
+    font-size: 40px;
+    text-align: center;
+    text-decoration-style: wavy;
 
+}
+.projects{
+    float: left
+
+}
+
+}
