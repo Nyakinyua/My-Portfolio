@@ -1,28 +1,33 @@
 body{
     font-style: oblique;
-    font-family: Arial;
+    font-family: sans-serif;
     line-height: 30px
 }
 .navigation{
     list-style-type: none;
 }
 h1{
-    font-size: 34px;
+    font-size: 50px;
     text-align: center;
-    text-decoration-color: black;
+    text-decoration-color:red;
     block-size: 12px;
     word-spacing: 3px;
     padding: 30px;
 }
-.text{
-    text-align: left;
-    float: left;
-    display: inline;
-}
 .projects{
+text-align:left;
+float:left;
+width:250px;
+padding:18px;
 
 }
 
 img{
     float: right;
+}
+.text{
+    float:left;
+    padding-block-end: 16px;
+    margin
+
 }
