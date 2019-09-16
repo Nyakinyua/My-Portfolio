@@ -1,5 +1,5 @@
 # {MY PORTFOLIO}
-#### {Programming journey}, {13/9/2019}
+#### {Programming journey}, {101}
 #### By **{Nyakinyua}**
 ## Description
 This project incorporates the author's name, an about me section that tells us more about the author and a list of projects they have worked on with the various links to the projects and finally an image of the auhor.
