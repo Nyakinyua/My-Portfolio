@@ -1,7 +1,8 @@
 body{
     font-style: oblique;
     font-family: sans-serif;
-    line-height: 30px
+    line-height: 30px;
+    background-color: aquamarine;
 }
 .navigation{
     list-style-type: none;
