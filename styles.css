@@ -8,12 +8,12 @@ body{
 }
 h1{
     font-size: 30px;
-    text-align: center;
+    text-align: left;
     block-size: 12px;
-    word-spacing: 3px;
-    padding: 30px;
+    word-spacing:5px;
+    padding: 40px;
 }
-.projects{
+.text{
 text-align:left;
 float:left;
 width:350px;
@@ -23,8 +23,10 @@ padding:28px;
 
 img{
     float: right;
+    width: 120px;
+    height: 150px;
 }
 h4{
-    text-align: left
+    text-align: left;
 }
 
