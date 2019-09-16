@@ -8,7 +8,7 @@ this project used HTML and CSS to style and give the website a layout
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
-Copyright (c) {2019} 
+           Copyright (c) {2019} (nyakinyua)
 
  
 
