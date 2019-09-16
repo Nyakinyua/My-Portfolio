@@ -7,7 +7,7 @@ body{
     list-style-type: none;
 }
 h1{
-    font-size: 30px;
+    font-size: 50px;
     text-align: left;
     block-size: 12px;
     word-spacing:5px;
@@ -23,8 +23,6 @@ padding:28px;
 
 img{
     float: right;
-    width: 120px;
-    height: 150px;
 }
 h4{
     text-align: left;
